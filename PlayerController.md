@@ -1,4 +1,4 @@
-//https://github.com/joselyngd/Challenge2/
+//https://github.com/joselyngd/Challenge2/PlayerController.md
 
 using System.Collections;
 using System.Collections.Generic;
